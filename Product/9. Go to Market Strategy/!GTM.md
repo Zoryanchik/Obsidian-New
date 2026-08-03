@@ -14,7 +14,7 @@ MAKE THEM DIFFERENT ALL GOY SLOP T CHANGE THE GROUPS THAT ARE INTERESTING
 	 МайнЛАпс за озвучку
 	 Notion in productio
 Cloude is the person who does all this shit automatically
-
+AD in meta and creo ?in 14 days + google 
 
 ![[Pasted image 20260803192355.png]]
 people very often dont use all functional. 50 процентов только телефон не heart rate, no headphones
