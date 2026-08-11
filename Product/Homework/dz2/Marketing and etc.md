@@ -50,3 +50,5 @@
      (де >100% означає прибутковість)
 
 In digital advertising, an **impression** means **one single time an ad is displayed on a screen**.
+
+![[Pasted image 20260812004903.png]]
