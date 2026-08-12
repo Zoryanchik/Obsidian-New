@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product/Homework/dz2/Marketing and etc.md",
+                "file": "Product/Workshops/1)Workshop AB Testing & Data-Driven Decision Making/2.Metricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marketing and etc"
+              "title": "2.Metricks"
             }
           },
           {
@@ -867,11 +867,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29d11a61db20963d",
+  "active": "d088afff42814b92",
   "lastOpenFiles": [
-    "Product/Workshops/Workshop AB Testing & Data-Driven Decision Making/Untitled.md",
+    "screen/Pasted image 20260812192359.png",
+    "screen/Pasted image 20260812192328.png",
+    "screen/Pasted image 20260812192208.png",
+    "screen/Pasted image 20260812192105.png",
+    "screen/Pasted image 20260812192022.png",
+    "screen/Pasted image 20260812191816.png",
+    "screen/Pasted image 20260812191615.png",
+    "screen/Pasted image 20260812191355.png",
+    "screen/Pasted image 20260812191309.png",
+    "screen/Pasted image 20260812191148.png",
+    "screen/Pasted image 20260812191019.png",
+    "Product/Workshops/1)Workshop AB Testing & Data-Driven Decision Making/Starter.md",
+    "Product/Workshops/1)Workshop AB Testing & Data-Driven Decision Making/2.Metricks.md",
+    "Product/Homework/dz2/Marketing and etc.md",
     "Product/Workshops/Untitled.md",
-    "Product/Workshops/Workshop AB Testing & Data-Driven Decision Making",
+    "Product/Workshops/1)Workshop AB Testing & Data-Driven Decision Making",
     "Product/8. Product Monetezation/Як оцинити.md",
     "Product/Workshops",
     "Product/8. Product Monetezation/How to actually monitaize and what types are there.md",
@@ -880,20 +893,9 @@
     "Product/10. Product Marketing Creatives, Funnels  Testing/Воркшопчик.md",
     "Product/10. Product Marketing Creatives, Funnels  Testing/Лендінг - funnel.md",
     "Product/10. Product Marketing Creatives, Funnels  Testing/Creative marketing  + воронка.md",
-    "Product/Homework/dz2/Marketing and etc.md",
-    "screen/Pasted image 20260812004903.png",
-    "screen/Pasted image 20260811235023.png",
     "Product/Homework/Answers.md",
     "Product/Homework/dz2",
     "Product/Homework/Untitled.md",
-    "screen/Pasted image 20260811160134.png",
-    "screen/Pasted image 20260811160031.png",
-    "screen/Pasted image 20260811155907.png",
-    "screen/Pasted image 20260811153217.png",
-    "screen/Pasted image 20260811153211.png",
-    "screen/Pasted image 20260811153118.png",
-    "screen/Pasted image 20260811153051.png",
-    "screen/Pasted image 20260811144436.png",
     "Product/9. Go to Market Strategy/Common sense.md",
     "Product/10. Product Marketing Creatives, Funnels  Testing",
     "Product/9. Go to Market Strategy/!GTM.md",
@@ -907,8 +909,6 @@
     "Product/4. Unit economics/1)Unit economics starter.md",
     "Product/7.Payment monetization/SBM.md",
     "Product/7.Payment monetization/Ecosystem and tech!.md",
-    "Product/7.Payment monetization/Starter.md",
-    "Product/8. Product Monetezation/Starter examples.md",
     "Product/9. Go to Market Strategy",
     "screen/Unit Economics Cases - Keys.xlsx",
     "Product/Homework",

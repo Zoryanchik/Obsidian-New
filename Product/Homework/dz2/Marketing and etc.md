@@ -6,7 +6,7 @@
 **Формули для розрахунку:**
 
 - **CPM** = 
-    
+    [What Is CPM? Cost Per Thousand Impressions](https://www.publift.com/blog/what-is-cpm)
     ```
     (Spend/Impressions)×1000(Spend/Impressions)×1000
     ```
