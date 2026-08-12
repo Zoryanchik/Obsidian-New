@@ -52,3 +52,4 @@
 In digital advertising, an **impression** means **one single time an ad is displayed on a screen**.
 
 ![[Pasted image 20260812004903.png]]
+https://docs.google.com/document/d/1Fkwbq_lFC7JWeQMMo1BsNYk5WnynNFHo06TOX_JsI68/edit?usp=sharing
