@@ -557,12 +557,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Генезис Продукт/12.BI dashboarding SQL & Tableau basics/starter.md",
+                "file": "Уник другий рік/scc-221/5.Data enginerring/Nested Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "starter"
+              "title": "Nested Queries"
             }
           },
           {
@@ -869,6 +869,20 @@
   },
   "active": "d088afff42814b92",
   "lastOpenFiles": [
+    "Уник другий рік/scc-221/5.Data enginerring/MySQL.md",
+    "Уник другий рік/scc-221/5.Data enginerring/Inserting and querying.md",
+    "Уник другий рік/scc-221/5.Data enginerring/Relationship Sets to Tables.md",
+    "Уник другий рік/scc-221/5.Data enginerring/question.md",
+    "Уник другий рік/scc-221/5.Data enginerring/What will happen if more than relations are used.md",
+    "Уник другий рік/scc-221/6.2Data enginerring/Scheduling Transactions.md",
+    "Уник другий рік/scc-221/6.2Data enginerring/Lock-Based Concurrency Control.md",
+    "Уник другий рік/scc-221/6.2Data enginerring/Anatomy of a transaction.md",
+    "Уник другий рік/scc-221/5.Data enginerring/Conceptual Evaluation.md",
+    "Уник другий рік/scc-221/6.2Data enginerring/Reservation problem.md",
+    "Уник другий рік/scc-221/6.2Data enginerring/Schedules.md",
+    "Уник другий рік/scc-221/7.NoSQL/NoSQL.md",
+    "Уник другий рік/scc-221/7.NoSQL/2PC and cap protocol.md",
+    "Генезис Продукт/12.BI dashboarding SQL & Tableau basics/starter.md",
     "screen/Pasted image 20260814190408.png",
     "Генезис Продукт/8. Product Monetezation/How to make monetization better.md",
     "Генезис Продукт/8. Product Monetezation/Прайс сегментация та пропозиция.md",
@@ -882,19 +896,6 @@
     "Генезис Продукт/6.Monetization Models/Marketplace.md",
     "Генезис Продукт/3.1 Market research/How to access the market.md",
     "Генезис Продукт/2.1 Product 07 10/5)Funnel is important.md",
-    "Генезис Продукт/2.1 Product 07 10/1)Market research.md",
-    "Генезис Продукт/3.1 Market research/Starter, build pipeline.md",
-    "Генезис Продукт/4. Unit economics/2)LTV.md",
-    "Генезис Продукт/4. Unit economics/3)CAC.md",
-    "Генезис Продукт/5. Business models/Monetization vs business model.md",
-    "Генезис Продукт/5. Business models/Types of monetezation models.md",
-    "Генезис Продукт/5. Business models/Pricing.md",
-    "Генезис Продукт/7.Payment monetization/Starter.md",
-    "Генезис Продукт/7.Payment monetization/Ecosystem and tech!.md",
-    "Генезис Продукт/10. Product Marketing Creatives, Funnels  Testing/Лендінг - funnel.md",
-    "Генезис Продукт/11. AB testing/relative vs absolute.md",
-    "Генезис Продукт/11. AB testing/2.Metricks.md",
-    "Генезис Продукт/11. AB testing/Starter.md",
     "screen/Pasted image 20260814184924.png",
     "screen/Pasted image 20260814184432.png",
     "screen/Pasted image 20260814184256.png",
@@ -905,7 +906,6 @@
     "screen/Pasted image 20260812204303.png",
     "screen/Pasted image 20260812203842.png",
     "screen/Pasted image 20260812203832.png",
-    "screen/Pasted image 20260812203221.png",
     "Генезис Продукт/11. AB testing",
     "Генезис Продукт/Workshops",
     "Генезис Продукт/Homework/dz2",
