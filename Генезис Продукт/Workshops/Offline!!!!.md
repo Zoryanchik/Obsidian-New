@@ -17,3 +17,5 @@ https://app.sensortower.com/overview/427916203?country=US
 ![[Pasted image 20260815140549.png]]
 
 Rice and rich
+
+https://www.figma.com/board/JILH8IEnPfwbyOTfoMVsEk/Genesis?node-id=0-1&p=f&t=R86aM4bh8fyODC98-0
