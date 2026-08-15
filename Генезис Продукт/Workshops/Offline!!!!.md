@@ -19,3 +19,5 @@ https://app.sensortower.com/overview/427916203?country=US
 Rice and rich
 
 https://www.figma.com/board/JILH8IEnPfwbyOTfoMVsEk/Genesis?node-id=0-1&p=f&t=R86aM4bh8fyODC98-0
+
+https://docs.google.com/presentation/d/1OfTKwOPcJCKsq5ltgeXRuESxmwd8eI-vKgPrSAo_7Dw/edit?slide=id.g3f72481508f_45_191#slide=id.g3f72481508f_45_191
