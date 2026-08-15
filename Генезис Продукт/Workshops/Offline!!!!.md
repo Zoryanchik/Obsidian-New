@@ -11,3 +11,9 @@ MCp conector to figma tp cloude
 фзз
 
 https://app.sensortower.com/?app_tab=trending&category=0&app_id=908126679
+
+https://app.sensortower.com/overview/427916203?country=US
+
+![[Pasted image 20260815140549.png]]
+
+Rice and rich
