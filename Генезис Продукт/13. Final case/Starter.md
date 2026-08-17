@@ -1,0 +1,2 @@
+![[Pasted image 20260817183406.png]]![[Pasted image 20260817183452.png]]![[Pasted image 20260817183510.png]]![[Pasted image 20260817183632.png]]Метрикик треба модулювати бенчмарки по ринкам якщо що 
+![[Pasted image 20260817183939.png]]![[Pasted image 20260817184118.png]]![[Pasted image 20260817184503.png]]![[Pasted image 20260817184613.png]]![[Pasted image 20260817184739.png]]![[Pasted image 20260817184855.png]]
