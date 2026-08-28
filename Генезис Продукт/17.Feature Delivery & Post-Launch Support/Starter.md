@@ -21,4 +21,4 @@ There could be more interesting ways
 У юзера вопиина бути цінністт 
 
 ![[Pasted image 20260827192023.png]]
-![[Pasted image 20260827192305.png]]![[Pasted image 20260827192312.png]]![[Pasted image 20260827192411.png]]
+![[Pasted image 20260827192305.png]]![[Pasted image 20260827192312.png]]![[Pasted image 20260827192411.png]]always look at the outcome 
