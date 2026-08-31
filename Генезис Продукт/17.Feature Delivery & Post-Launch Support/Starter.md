@@ -10,7 +10,9 @@ LiveOps
 ![[Pasted image 20260827185547.png]]
 ![[Pasted image 20260827185648.png]]
 ![[Pasted image 20260827185958.png]]
-
+minimum viable product (MVP)
+Fakr door 
+Marketing creative what will be our cac and etc 
 Creative
 ![[Pasted image 20260827190101.png]]
 
