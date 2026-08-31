@@ -1,4 +1,6 @@
-![[Pasted image 20260827183247.png]]![[Pasted image 20260827183753.png]]![[Pasted image 20260827183851.png]]
+![[Pasted image 20260827183247.png]]![[Pasted image 20260827183753.png]]
+
+![[Pasted image 20260827183851.png]]
 How we start to generate ideas ![[Pasted image 20260827184005.png]]![[Pasted image 20260827184204.png]]![[Pasted image 20260827184307.png]]
 ![[Pasted image 20260827184623.png]]
 example we can use email to ask stuff 
@@ -24,3 +26,5 @@ There could be more interesting ways
 
 ![[Pasted image 20260827192023.png]]
 ![[Pasted image 20260827192305.png]]![[Pasted image 20260827192312.png]]![[Pasted image 20260827192411.png]]always look at the outcome 
+
+![[Pasted image 20260831193155.png]]![[Pasted image 20260831193629.png]]![[Pasted image 20260831193741.png]]![[Pasted image 20260831193823.png]]![[Pasted image 20260831193848.png]]
