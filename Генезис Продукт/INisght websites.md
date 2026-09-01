@@ -21,3 +21,5 @@ https://planningpokeronline.com/
 
 
 ![[Pasted image 20260827184316.png]]
+
+https://adsense.google.com/start/
