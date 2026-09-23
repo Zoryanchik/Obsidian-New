@@ -1,4 +1,8 @@
 
+
+
+
+
 MArketign 
 
 Why product  organichna and not ornahik 
@@ -21,5 +25,7 @@ and no psubh
 ВІлктирість 
 
 Самоктиитка + фідбек
+
+
 
 
