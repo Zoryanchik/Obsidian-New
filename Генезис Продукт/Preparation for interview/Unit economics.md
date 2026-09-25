@@ -6,6 +6,11 @@
 
 ## 1. Фундаментальні метрики та формули
 
+  
+Search Assist
+
+CPA in product refers to the cost per acquisition metric used to measure how much is spent to acquire a new user or customer for a product, calculated by dividing total campaign costs by the number of acquisitions.
+![[Pasted image 20260925133104.png]]
 ### Залучення та конверсії
 
 - **CAC (Customer Acquisition Cost):**
