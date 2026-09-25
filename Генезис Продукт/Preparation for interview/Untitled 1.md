@@ -1,8 +1,4 @@
 
-
-
-
-
 MArketign 
 
 Why product  organichna and not ornahik 
