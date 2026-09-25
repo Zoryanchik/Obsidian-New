@@ -6,7 +6,7 @@
 
 ## 1. Фундаментальні метрики та формули
 
-  
+  ![[Pasted image 20260925133627.png]]
 Search Assist
 
 CPA in product refers to the cost per acquisition metric used to measure how much is spent to acquire a new user or customer for a product, calculated by dividing total campaign costs by the number of acquisitions.
