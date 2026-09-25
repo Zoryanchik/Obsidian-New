@@ -99,7 +99,7 @@ Customer churn refers to the rate at which customers stop doing business with a 
         
     - $> 5.0\times$ — неефективний маркетинг, компанія недоінвестовує в ріст і втрачає частку ринку.
         
-          
+    
         
 - **Payback Period (Період окупності CAC):**
     
